@@ -18,7 +18,7 @@ namespace mobile_de
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            SearchProvider.Search("Aladin", "sesam open");
         }
     }
 }
